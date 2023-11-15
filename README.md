@@ -1,7 +1,7 @@
 ```
 solutions = [
   {
-    "url": "https://git.woa.com/zixianwei/chromium-base.git@origin/master",
+    "url": "https://github.com/zixianweei/chromium-base.git@origin/master",
     "managed": False,
     "name": "src",
     "deps_file": "DEPS",
